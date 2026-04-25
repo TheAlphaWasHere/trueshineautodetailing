@@ -144,19 +144,7 @@ function Services() {
       ],
     },
     {
-      icon: '🪑',
-      title: 'INTERIOR DETAIL',
-      desc: 'A deep interior clean that eliminates dirt, odors, and stains, leaving every surface fresh, sanitized, and spotless.',
-      list: [
-        'Full vacuum & debris removal',
-        'Seat & carpet shampooing',
-        'Dashboard & panel wipe-down',
-        'Door panels & pockets cleaned',
-        'Console & cupholder deep clean',
-        'Air vent cleaning & deodorizing',
-      ],
-    },
-  ]
+
 
   const refs = [card1Ref, card2Ref]
 
